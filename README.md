@@ -61,6 +61,7 @@ This is released under [GNU General Public License v3.0](#LICENSE).
 A copy is provided in this repository however if for some reason it is absent, it can be viewed [here](https://www.gnu.org/licenses/gpl-3.0.txt).
 
 ### <a id="reference"></a>Reference
-
+* https://pillow.readthedocs.io/en/stable/reference/index.html
+* https://docs.opencv.org/2.4/modules/imgproc/doc/imgproc.html
 * https://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117
 * https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
